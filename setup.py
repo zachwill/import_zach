@@ -10,7 +10,7 @@ except ImportError:
 
 setup(
     name="zach",
-    version="1.0",
+    version="1.1",
     url="http://github.com/zachwill/import_zach",
     author="Zach Williams",
     author_email="hey@zachwill.com",
